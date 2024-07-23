@@ -18,6 +18,15 @@ Welcome to the Spotify Clone Music Website! This project is a web-based music pl
 - **CSS**: Styling and layout of the website.
 - **JavaScript**: Functionality and interactivity of the music player.
 
+## Demo
+
+Watch the screen recording below to see the Spotify Clone Music Website in action:
+
+
+https://github.com/user-attachments/assets/ca344968-5076-4ce4-9c4f-fa6895b4a019
+
+
+
 ## Acknowledgements
 
 - Thanks to the developers of the libraries and frameworks used in this project.
